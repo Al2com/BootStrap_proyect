@@ -1,0 +1,46 @@
+form{
+    background-color:rgb(138, 199, 138);
+    margin: 40px;
+}
+.container{
+    background-color: rgb(138, 199, 138);
+    padding: 30px;
+    border-radius: 20px;
+}
+
+nav h4 {
+  color: rgb(138, 199, 138);;
+  padding-top: 30px;
+}
+.nav-item {
+margin-left: 220px;
+}
+.top-header{
+    background-color: orange;
+}
+.nav-item:hover h4{
+   color: orange; 
+}
+.form-group{
+    color: rgb(207, 141, 18);
+    font-weight: bold;
+}
+.button{
+  background-color: #ff8300; /* color naranja */
+  color: #ffffff; /* texto blanco */
+  border-radius: 15px; /* bordes redondeados */
+  padding: 12px 24px; /* relleno interno */
+  border: none; /* quitar borde */
+  cursor: pointer; /* cursor de puntero */
+}
+.button:hover {
+  background-color: #e67100; 
+}
+.boton{
+    margin-top: 100px;
+   text-align: center;
+}
+.derechos{
+    font-size: 15px;
+    font-weight: bold;
+}

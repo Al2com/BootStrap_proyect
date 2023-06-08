@@ -1,0 +1,46 @@
+
+nav h4 {
+  color:orange;
+  padding-top: 30px;
+}
+.nav-item {
+margin-left: 220px;
+}
+.nav-item:hover h4{
+   color: green; 
+}
+main{
+    background-color: rgb(255, 212, 132);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.top-header{
+   background-color: orange;
+}
+footer{
+    background-color: orange;
+}
+footer ul li{
+    list-style: none;
+}
+footer a {
+  color: rgb(253, 219, 156)
+}
+footer  a:hover {
+  color: white;
+  text-decoration-color: white;
+}
+address {
+  color: black;
+  font-weight: bold;
+  font-size: 7px;
+}
+.card-body{
+ background-color: rgb(157, 216, 157);   
+}
+address {
+  color: black;
+  font-weight: bold;
+  font-size: 7px;
+  margin-top: 80px;
+}

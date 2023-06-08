@@ -1,0 +1,76 @@
+main{
+    background-color:rgb(170, 234, 125);
+    padding-bottom: 150px;
+    padding-top: 200px;
+}
+nav h4 {
+  color: orange;
+  padding-top: 30px;
+}
+li h5{
+    color:white;
+}
+nav{
+    
+}
+.nav-item:hover h4{
+   color:rgb(64, 155, 64); 
+}
+
+.top-header{
+    background-color: orange;
+}
+.telefono{
+    content: "679232996";
+    color: rgb(0, 0, 0);
+}
+.telefono > i {
+    padding-left: 10px;
+}
+.nav-item {
+margin-left: 120px;
+}
+/* carrusel */
+/* Container descripcion finca */
+.container-descripcion{
+    padding-top: 3vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    letter-spacing: 1px;
+} 
+
+footer li a {
+  color: rgb(253, 219, 156);
+}
+footer li{
+     list-style: none;
+}
+footer li a:hover {
+  color: white;
+  text-decoration-color: white;
+  text-decoration-style: none;
+}
+footer {
+  padding-top: 40px;
+  background-color:orange;
+  height: 300px;
+  list-style: none;
+  color:black;
+}
+address {
+  color: black;
+  font-weight: bold;
+  font-size: 7px;
+  margin-top: 20px;
+}
+
+/* MEDIA QUERIES ALARGAR EL FOOTER CON LAS */
+ @media screen and (max-width: 500px) {
+  footer {
+    height: 600px;
+  }
+  .nav-item{
+    margin-left: 50px;
+  }
+}
+
